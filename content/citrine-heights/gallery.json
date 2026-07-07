@@ -1,1 +1,319 @@
-[]
+[
+  {
+    "id": "gh-001",
+    "title": "Citrine Tower at Dusk",
+    "description": "The landmark silhouette against Nairobi's evening sky.",
+    "category": "exterior",
+    "featured": true,
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Citrine Tower exterior rendering at dusk",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "gh-002",
+    "title": "Architectural Vision",
+    "description": "Bold geometry meets refined luxury.",
+    "category": "exterior",
+    "featured": true,
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine.png",
+      "alt": "Citrine Tower architectural rendering",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  {
+    "id": "gh-003",
+    "title": "Facade Detail",
+    "description": "Precision-crafted exterior finishes.",
+    "category": "exterior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/cetrine-icon.png",
+      "alt": "Citrine Tower facade detail",
+      "width": 1200,
+      "height": 1200
+    }
+  },
+  {
+    "id": "gh-004",
+    "title": "Tower Elevation",
+    "description": "Rising above Westlands.",
+    "category": "exterior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.20.jpeg",
+      "alt": "Citrine Tower elevation view",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-005",
+    "title": "Street Perspective",
+    "description": "A commanding presence at street level.",
+    "category": "exterior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21.jpeg",
+      "alt": "Citrine Tower street perspective",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-006",
+    "title": "Urban Arrival",
+    "description": "Grand entrance experience.",
+    "category": "exterior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (1).jpeg",
+      "alt": "Citrine Tower arrival experience",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-007",
+    "title": "Architectural Lines",
+    "description": "Clean verticality and proportion.",
+    "category": "construction",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (2).jpeg",
+      "alt": "Citrine Tower architectural lines",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-008",
+    "title": "Foundation of Excellence",
+    "description": "Built to the highest standards.",
+    "category": "construction",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (3).jpeg",
+      "alt": "Citrine Tower construction progress",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-009",
+    "title": "Penthouse Living",
+    "description": "Expansive interiors bathed in natural light.",
+    "category": "interior",
+    "featured": true,
+    "image": {
+      "src": "/projects/citrine-heights/gallery/living.png",
+      "alt": "Luxury penthouse living room",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-010",
+    "title": "Chef's Kitchen",
+    "description": "Where culinary artistry meets design.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/kitchen.png",
+      "alt": "Premium chef's kitchen",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-011",
+    "title": "Dining Elegance",
+    "description": "Intimate gatherings, elevated.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/table.png",
+      "alt": "Elegant dining area",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-012",
+    "title": "Marble Finishes",
+    "description": "Tactile luxury in every surface.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/marble.jpg",
+      "alt": "Marble interior finishes",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-013",
+    "title": "Living Room Vista",
+    "description": "Floor-to-ceiling views and refined comfort.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22.jpeg",
+      "alt": "Spacious living room with city views",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-014",
+    "title": "Master Suite",
+    "description": "A private sanctuary above the city.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22 (1).jpeg",
+      "alt": "Luxury master suite interior",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-015",
+    "title": "Refined Interiors",
+    "description": "Every detail considered.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23.jpeg",
+      "alt": "Refined interior design",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-016",
+    "title": "Open Plan Living",
+    "description": "Seamless flow between spaces.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+      "alt": "Open plan living space",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-017",
+    "title": "Bespoke Details",
+    "description": "Custom millwork and premium fixtures.",
+    "category": "interior",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (2).jpeg",
+      "alt": "Bespoke interior details",
+      "width": 1200,
+      "height": 1600
+    }
+  },
+  {
+    "id": "gh-018",
+    "title": "Infinity Pool",
+    "description": "Swim above the skyline.",
+    "category": "amenities",
+    "featured": true,
+    "image": {
+      "src": "/projects/citrine-heights/gallery/pool.jpg",
+      "alt": "Rooftop infinity pool",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-019",
+    "title": "Pool Terrace",
+    "description": "Al fresco relaxation at altitude.",
+    "category": "amenities",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/pool.png",
+      "alt": "Pool terrace with city views",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-020",
+    "title": "Wellness Center",
+    "description": "State-of-the-art fitness and recovery.",
+    "category": "amenities",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/gym.jpg",
+      "alt": "Premium wellness and fitness center",
+      "width": 1600,
+      "height": 1000
+    }
+  },
+  {
+    "id": "gh-021",
+    "title": "City Panorama",
+    "description": "Nairobi unfolds beneath you.",
+    "category": "views",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+      "alt": "Panoramic city view from Citrine Tower",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
+    "id": "gh-022",
+    "title": "Westlands Horizon",
+    "description": "Uninterrupted vistas to the horizon.",
+    "category": "views",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24 (1).jpeg",
+      "alt": "Westlands horizon view",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
+    "id": "gh-023",
+    "title": "Sky Lounge View",
+    "description": "Entertain above the clouds.",
+    "category": "views",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+      "alt": "Sky lounge panoramic view",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
+    "id": "gh-024",
+    "title": "Golden Hour",
+    "description": "Sunset paints the city in amber.",
+    "category": "views",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (1).jpeg",
+      "alt": "Golden hour city view",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
+    "id": "gh-025",
+    "title": "Elevated Perspective",
+    "description": "See the city from a new height.",
+    "category": "views",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (2).jpeg",
+      "alt": "Elevated perspective of Nairobi",
+      "width": 1600,
+      "height": 900
+    }
+  },
+  {
+    "id": "gh-026",
+    "title": "The Skyline Never Sleeps",
+    "description": "Night falls. The tower glows.",
+    "category": "lifestyle",
+    "featured": true,
+    "image": {
+      "src": "/projects/citrine-heights/gallery/ChatGPT Image Jul 5, 2026, 04_44_05 AM.png",
+      "alt": "Citrine Tower at night with illuminated skyline",
+      "width": 1920,
+      "height": 1080
+    }
+  }
+]

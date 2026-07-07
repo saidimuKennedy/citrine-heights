@@ -133,3 +133,12 @@
     @apply font-sans;
   }
 }
+
+@keyframes gallery-scroll {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(220%);
+  }
+}

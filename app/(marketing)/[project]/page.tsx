@@ -113,7 +113,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
               </p>
             ))}
             <Link
-              href="#gallery"
+              href={`/${slug}/gallery`}
               className="text-brand-dark border-b border-brand-dark/20 hover:border-brand-gold hover:text-brand-gold pb-1 text-xs tracking-[0.2em] font-semibold transition-all duration-300 inline-flex items-center gap-2"
             >
               DISCOVER THE VISION
