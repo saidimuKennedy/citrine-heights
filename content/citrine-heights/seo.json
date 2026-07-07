@@ -1,1 +1,14 @@
-{}
+{
+  "title": "Citrine Heights - Luxury Living in Westlands, Nairobi",
+  "description": "Experience premium 2, 3, 4 & 5 bedroom apartments and penthouses in Nairobi's prime zone. Developed by Kianyingi.",
+  "keywords": ["luxury apartments", "Westlands Nairobi", "penthouses", "investment real estate", "Kianyingi"],
+  "canonicalUrl": "https://kianyingi.co.ke/citrine-heights",
+  "openGraph": {
+    "title": "Citrine Heights - Luxury Residences in Westlands",
+    "description": "Experience luxury living with premium finishes, sky lounge, infinity pool, and high investment yields.",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Citrine Heights Exterior"
+    }
+  }
+}

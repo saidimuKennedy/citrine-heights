@@ -1,1 +1,163 @@
-{}
+{
+  "id": "citrine-heights",
+  "slug": "citrine-heights",
+  "name": "Citrine Heights",
+  "status": "selling",
+  "theme": {
+    "colors": {
+      "primary": "#C5A880",
+      "secondary": "#121315",
+      "accent": "#C5A880",
+      "surface": "#121315",
+      "background": "#0B0C0E",
+      "foreground": "#FFFFFF",
+      "muted": "#8A8A8A"
+    },
+    "typography": {
+      "headingFont": "var(--font-serif)",
+      "bodyFont": "var(--font-sans)"
+    },
+    "borderRadius": "md"
+  },
+  "hero": {
+    "title": "Elevate Your World",
+    "subtitle": "THE FUTURE OF LUXURY LIVING",
+    "tagline": "A landmark address in Westlands that redefines sophistication, comfort and value.",
+    "media": {
+      "type": "image",
+      "image": {
+        "src": "/projects/citrine-heights/gallery/citrine heights.png",
+        "alt": "Citrine Heights luxury tower exterior at dusk",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "primaryCta": {
+      "label": "BOOK A PRIVATE VIEWING",
+      "href": "#contact"
+    }
+  },
+  "overview": {
+    "headline": "Architecture that inspires tomorrow.",
+    "description": [
+      "Citrine Heights is more than just a residence. It is a statement of distinction. From the breathtaking design to the world-class amenities, every detail is crafted for exceptional living."
+    ],
+    "media": {
+      "type": "image",
+      "image": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+        "alt": "Spacious penthouse living room",
+        "width": 1200,
+        "height": 800
+      }
+    }
+  },
+  "valueGrid": [
+    {
+      "id": "location",
+      "title": "LOCATION",
+      "description": "Prime Westlands address minutes from CBD, top schools, malls and hospitals.",
+      "icon": "MapPin"
+    },
+    {
+      "id": "residences",
+      "title": "LUXURY RESIDENCES",
+      "description": "Spacious 2, 3, 4 & 5 bedroom apartments and penthouses with premium finishes.",
+      "icon": "Diamond"
+    },
+    {
+      "id": "amenities",
+      "title": "WORLD-CLASS AMENITIES",
+      "description": "Infinity pool, sky lounge, gym, spa, kids play area and more designed for you.",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "investment",
+      "title": "STRONG INVESTMENT",
+      "description": "High rental demand, capital appreciation and secure returns in Nairobi's prime zone.",
+      "icon": "TrendingUp"
+    }
+  ],
+  "tower": {
+    "headline": "A New Icon in Nairobi's Skyline.",
+    "description": [
+      "Rising 40 floors high, Citrine Heights offers panoramic views of the city, premium lifestyle facilities and smart home features for modern living."
+    ],
+    "media": {
+      "type": "image",
+      "image": {
+        "src": "/projects/citrine-heights/gallery/cetrine-icon.png",
+        "alt": "Citrine Heights tower closeup facade at dusk",
+        "width": 800,
+        "height": 1200
+      }
+    },
+    "stats": [
+      { "label": "FLOORS", "value": "40" },
+      { "label": "RESIDENCES", "value": "200+" },
+      { "label": "PENTHOUSES", "value": "8" },
+      { "label": "VIEWS", "value": "360°" }
+    ]
+  },
+  "amenitiesList": [
+    {
+      "id": "pool",
+      "title": "INFINITY POOL",
+      "description": "Rooftop swimming pool overlooking the Nairobi skyline.",
+      "icon": "Waves",
+      "image": "/projects/citrine-heights/gallery/pool.jpg"
+    },
+    {
+      "id": "gym",
+      "title": "FITNESS CENTRE",
+      "description": "State-of-the-art gym with panoramic views.",
+      "icon": "Dumbbell",
+      "image": "/projects/citrine-heights/gallery/gym.jpg"
+    },
+    {
+      "id": "lounge",
+      "title": "SKY LOUNGE",
+      "description": "Premium dining and social space for residents.",
+      "icon": "GlassWater",
+      "image": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg"
+    },
+    {
+      "id": "bedroom",
+      "title": "LUXURY FINISHES",
+      "description": "Master bedroom with high-end fixtures and design.",
+      "icon": "BedDouble",
+      "image": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22 (1).jpeg"
+    }
+  ],
+  "investment": {
+    "headline": "Built for today. Valued for tomorrow.",
+    "highlights": [
+      {
+        "value": "8-10%",
+        "label": "EXPECTED RENTAL YIELD",
+        "icon": "Percent"
+      },
+      {
+        "value": "15-20%",
+        "label": "PROJECTED CAPITAL GROWTH",
+        "icon": "TrendingUp"
+      },
+      {
+        "value": "HIGH",
+        "label": "DEMAND LOCATION",
+        "icon": "ShieldCheck"
+      }
+    ]
+  },
+  "contact": {
+    "salesPhone": {
+      "number": "+254 700 000 000",
+      "label": "Sales"
+    },
+    "whatsapp": {
+      "number": "+254 700 000 000",
+      "label": "WhatsApp"
+    },
+    "email": "info@citrineheights.co.ke"
+  }
+}
