@@ -16,7 +16,7 @@ export default async function ProjectLayout({
   const project = await getProject(slug);
 
   return (
-    <div className="min-h-screen flex flex-col bg-black text-white relative">
+    <div className="relative flex min-h-screen flex-col bg-[#111111] text-[#F7F4EF]">
       <Header project={project || undefined} projectSlug={slug} />
       <main className="flex-grow flex flex-col">{children}</main>
       <Footer project={project || undefined} />

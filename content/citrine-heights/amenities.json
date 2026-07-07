@@ -1,0 +1,324 @@
+{
+  "hero": {
+    "label": "AMENITIES",
+    "headline": "Designed for the way you live.",
+    "subtitle": "From sunrise laps to evening gatherings — spaces that shape your rhythm.",
+    "ctaLabel": "DISCOVER THE LIFESTYLE",
+    "accent": "EXPLORE",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/pool.jpg",
+      "alt": "Rooftop infinity pool with panoramic Nairobi skyline at dusk"
+    }
+  },
+  "philosophy": {
+    "headline": "Luxury isn't measured by finishes alone.",
+    "paragraphs": [
+      "It's measured by how every moment feels.",
+      "At Citrine Heights, amenities are not a checklist — they are chapters in a daily story. Wake with purpose. Work with focus. Relax without effort. Connect with intention. Belong without question."
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+      "alt": "Sky lounge with refined interior and city views"
+    }
+  },
+  "featured": {
+    "label": "SIGNATURE AMENITY",
+    "title": "Infinity Sky Pool",
+    "narrative": "Suspended above the Westlands canopy, the infinity pool dissolves into the horizon. Morning laps beneath open sky. Afternoon lounging with a book. Evening cocktails as the city ignites below. This is not a amenity — it is a daily ritual.",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/pool.png",
+      "alt": "Infinity sky pool terrace with city panorama"
+    }
+  },
+  "collection": {
+    "label": "THE COLLECTION",
+    "headline": "Spaces that shape your rhythm.",
+    "items": [
+      {
+        "title": "Sky Lounge",
+        "narrative": "An elevated salon for conversation and contemplation. Floor-to-ceiling glass frames the city while interiors whisper quiet luxury — the place residents gather for sunset aperitifs and unhurried evenings.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "Premium sky lounge with panoramic views"
+        }
+      },
+      {
+        "title": "Business Lounge",
+        "narrative": "A private workspace above the noise. High-speed connectivity, meeting pods and concierge support — so your professional life moves as seamlessly as your personal one.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Business lounge with city outlook"
+        }
+      },
+      {
+        "title": "Landscaped Gardens",
+        "narrative": "Curated green corridors weave through the podium — shaded paths, native planting and quiet benches where the pace of the city fades into stillness.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+          "alt": "Landscaped garden paths at Citrine Heights"
+        }
+      },
+      {
+        "title": "Residents' Terrace",
+        "narrative": "An open-air extension of home. Morning coffee on the terrace. Weekend brunches with neighbours. A space designed for the unscripted moments that make a building feel like a community.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23.jpeg",
+          "alt": "Residents terrace with outdoor seating"
+        }
+      }
+    ]
+  },
+  "wellness": {
+    "label": "WELLNESS",
+    "headline": "Restore. Recharge. Renew.",
+    "description": "A sanctuary for body and mind — where fitness, recovery and stillness coexist under one roof.",
+    "items": [
+      {
+        "title": "Fitness Centre",
+        "description": "State-of-the-art equipment with panoramic views. Train with intention as the city stretches beneath you.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/gym.jpg",
+          "alt": "Premium fitness centre with city views"
+        }
+      },
+      {
+        "title": "Yoga Studio",
+        "description": "A calm, light-filled space for practice and meditation. Morning flow as dawn breaks over Nairobi.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22.jpeg",
+          "alt": "Yoga studio with natural light"
+        }
+      },
+      {
+        "title": "Spa & Treatment Rooms",
+        "description": "Private treatment suites for massage, therapy and recovery. Wellness, on your schedule.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/marble.jpg",
+          "alt": "Spa treatment room with marble finishes"
+        }
+      },
+      {
+        "title": "Sauna & Steam",
+        "description": "Heat therapy and steam rooms for deep relaxation after a long day — or a vigorous workout.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (1).jpeg",
+          "alt": "Sauna and steam wellness area"
+        }
+      },
+      {
+        "title": "Running Deck",
+        "description": "An elevated track for morning runs and evening walks. Exercise with altitude and outlook.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24 (1).jpeg",
+          "alt": "Outdoor running deck with skyline views"
+        }
+      }
+    ]
+  },
+  "socialSpaces": {
+    "label": "SOCIAL SPACES",
+    "headline": "Gather. Celebrate. Connect.",
+    "pillars": ["Gather.", "Celebrate.", "Connect."],
+    "spaces": [
+      {
+        "title": "Residents' Lounge",
+        "narrative": "A refined salon for quiet conversation and unhurried afternoons. Plush seating, curated art and a sense of arrival that feels distinctly yours.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/living.png",
+          "alt": "Residents lounge with elegant furnishings"
+        }
+      },
+      {
+        "title": "Coffee Terrace",
+        "narrative": "Morning rituals begin here — artisan coffee, fresh pastries and the first light of day spilling across the terrace.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Coffee terrace with morning light"
+        }
+      },
+      {
+        "title": "BBQ & Dining Deck",
+        "narrative": "Weekend gatherings under open sky. A dedicated grill station and al fresco dining for the celebrations that matter.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21.jpeg",
+          "alt": "BBQ and outdoor dining deck"
+        }
+      },
+      {
+        "title": "Private Dining Room",
+        "narrative": "Host with elegance. A fully equipped private dining space for intimate dinners, milestone celebrations and memorable evenings.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Private dining room with city views"
+        }
+      }
+    ]
+  },
+  "familyLiving": {
+    "label": "FAMILY LIVING",
+    "headline": "Room for every generation.",
+    "description": "Spaces designed for the full arc of life — from first steps to quiet evening strolls.",
+    "features": [
+      {
+        "title": "Kids' Play Area",
+        "description": "A safe, imaginative play zone where children explore, create and make friends within the comfort of home.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (1).jpeg",
+          "alt": "Children's play area"
+        }
+      },
+      {
+        "title": "Landscaped Gardens",
+        "description": "Shaded paths and native planting create a green retreat steps from your front door.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+          "alt": "Family-friendly landscaped gardens"
+        }
+      },
+      {
+        "title": "Walking Paths",
+        "description": "Paved walkways weave through the podium — for morning strolls, evening walks and everything between.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (2).jpeg",
+          "alt": "Paved walking paths through gardens"
+        }
+      },
+      {
+        "title": "Pet-Friendly Living",
+        "description": "Dedicated pet zones and thoughtful design ensure every member of the family — including four-legged ones — feels welcome.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.20.jpeg",
+          "alt": "Pet-friendly outdoor spaces"
+        }
+      }
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine.png",
+      "alt": "Citrine Heights podium with landscaped gardens"
+    }
+  },
+  "security": {
+    "label": "SECURITY",
+    "headline": "Peace of mind, always.",
+    "description": "Discreet, comprehensive protection — so you live freely, without compromise.",
+    "features": [
+      {
+        "title": "24/7 Security",
+        "description": "Trained personnel on duty around the clock, ensuring a secure environment at every hour.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Smart Access",
+        "description": "Keyless entry, biometric options and resident-only access to all amenity floors.",
+        "icon": "Fingerprint"
+      },
+      {
+        "title": "CCTV Surveillance",
+        "description": "Comprehensive camera coverage across common areas, entrances and parking levels.",
+        "icon": "Cctv"
+      },
+      {
+        "title": "Concierge Reception",
+        "description": "A welcoming front desk for guests, deliveries and resident assistance — always attentive, never intrusive.",
+        "icon": "ConciergeBell"
+      },
+      {
+        "title": "Visitor Management",
+        "description": "Digital pre-registration and controlled access for a seamless, secure guest experience.",
+        "icon": "UserCheck"
+      }
+    ]
+  },
+  "convenience": {
+    "label": "CONVENIENCE",
+    "headline": "Everyday ease, elevated.",
+    "description": "The details that make daily life effortless — considered, integrated and always available.",
+    "features": [
+      {
+        "title": "EV Charging",
+        "description": "Dedicated electric vehicle charging stations in secure parking bays.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Ample Parking",
+        "description": "Reserved resident bays with visitor parking and motorcycle facilities.",
+        "icon": "Car"
+      },
+      {
+        "title": "Concierge Services",
+        "description": "Parcel handling, reservations and lifestyle assistance at your request.",
+        "icon": "Bell"
+      },
+      {
+        "title": "Retail & Services",
+        "description": "Ground-floor retail and essential services within walking distance of home.",
+        "icon": "Store"
+      },
+      {
+        "title": "High-Speed Lifts",
+        "description": "Multiple elevator banks with smart dispatch for minimal wait times.",
+        "icon": "ArrowUpDown"
+      },
+      {
+        "title": "Backup Power",
+        "description": "Generator backup for common areas and essential residence systems.",
+        "icon": "BatteryCharging"
+      }
+    ]
+  },
+  "timeOfDay": {
+    "label": "AMENITIES BY TIME OF DAY",
+    "headline": "A day unfolds at Citrine Heights.",
+    "moments": [
+      {
+        "period": "morning",
+        "label": "Morning",
+        "narrative": "A sunrise workout in the fitness centre. Coffee on the terrace as the city wakes. The day begins with intention.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/gym.jpg",
+          "alt": "Morning workout with sunrise views"
+        }
+      },
+      {
+        "period": "afternoon",
+        "label": "Afternoon",
+        "narrative": "A focused session in the business lounge. A leisurely swim in the infinity pool. Productivity and pause in equal measure.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/pool.jpg",
+          "alt": "Afternoon at the infinity pool"
+        }
+      },
+      {
+        "period": "evening",
+        "label": "Evening",
+        "narrative": "Rooftop dining as the sky turns gold. Neighbours gather on the BBQ deck. The city glows beneath you.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21.jpeg",
+          "alt": "Evening rooftop dining at sunset"
+        }
+      },
+      {
+        "period": "night",
+        "label": "Night",
+        "narrative": "The sky lounge comes alive. Gardens illuminated with soft light. Night belongs to those who know how to savour it.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "Sky lounge at night with city lights"
+        }
+      }
+    ]
+  },
+  "signatureBanner": {
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Citrine Heights tower at golden hour against the Nairobi skyline"
+    },
+    "overlay": "Because Home Should Feel Like A Private Resort"
+  },
+  "cta": {
+    "headline": "Experience the lifestyle for yourself.",
+    "primaryLabel": "BOOK A PRIVATE TOUR",
+    "secondaryLabel": "DOWNLOAD BROCHURE",
+    "brochureUrl": "/projects/citrine-heights/gallery/citrine.png"
+  }
+}

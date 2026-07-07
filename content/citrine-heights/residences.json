@@ -1,0 +1,301 @@
+{
+  "hero": {
+    "label": "RESIDENCES",
+    "headline": "Homes Designed For Extraordinary Living.",
+    "subtitle": "Five distinct lifestyles. One address above the city.",
+    "ctaLabel": "EXPLORE RESIDENCES",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/living.png",
+      "alt": "Luxury living room at sunset with panoramic city views"
+    }
+  },
+  "selector": {
+    "label": "CHOOSE YOUR RESIDENCE",
+    "headline": "Select the lifestyle that speaks to you."
+  },
+  "residences": [
+    {
+      "id": "studio",
+      "title": "Studio",
+      "lifestyle": "Effortless urban living for the discerning solo. A curated sanctuary where every square metre is considered.",
+      "previewImage": {
+        "src": "/projects/citrine-heights/gallery/kitchen.png",
+        "alt": "Studio kitchen with premium finishes"
+      },
+      "collectionImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22 (1).jpeg",
+        "alt": "Studio residence interior"
+      },
+      "specs": {
+        "size": "45 sqm",
+        "beds": "Studio",
+        "baths": "1",
+        "balcony": true,
+        "smartHome": true
+      },
+      "features": [
+        "Open-plan living",
+        "Floor-to-ceiling windows",
+        "Integrated kitchen",
+        "Private balcony"
+      ],
+      "floorPlan": {
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Studio floor plan"
+        }
+      }
+    },
+    {
+      "id": "one-bedroom",
+      "title": "1 Bedroom",
+      "lifestyle": "Space to breathe, room to grow. A refined one-bedroom for professionals who value both privacy and presence.",
+      "previewImage": {
+        "src": "/projects/citrine-heights/gallery/living.png",
+        "alt": "One bedroom living space"
+      },
+      "collectionImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+        "alt": "One bedroom residence"
+      },
+      "specs": {
+        "size": "60 sqm",
+        "beds": "1",
+        "baths": "1",
+        "balcony": true,
+        "smartHome": true
+      },
+      "features": [
+        "Separate bedroom suite",
+        "Generous living area",
+        "Walk-in wardrobe",
+        "Sunset-facing balcony"
+      ],
+      "floorPlan": {
+        "image": {
+          "src": "/projects/citrine-heights/gallery/living.png",
+          "alt": "1 Bedroom floor plan"
+        }
+      }
+    },
+    {
+      "id": "two-bedroom",
+      "title": "2 Bedroom",
+      "lifestyle": "The art of shared living. Two bedrooms, two bathrooms, and a flowing open plan designed for couples and young families.",
+      "previewImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+        "alt": "Two bedroom residence preview"
+      },
+      "collectionImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24 (1).jpeg",
+        "alt": "Two bedroom residence interior"
+      },
+      "specs": {
+        "size": "90 sqm",
+        "beds": "2",
+        "baths": "2",
+        "balcony": true,
+        "smartHome": true
+      },
+      "features": [
+        "Dual ensuite bedrooms",
+        "Entertainer's kitchen",
+        "Dedicated study nook",
+        "Wraparound balcony"
+      ],
+      "floorPlan": {
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "2 Bedroom floor plan"
+        }
+      }
+    },
+    {
+      "id": "three-bedroom",
+      "title": "3 Bedroom",
+      "lifestyle": "Generous proportions for family life without compromise. Three bedrooms, three bathrooms, and room for everyone to find their rhythm.",
+      "previewImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+        "alt": "Three bedroom residence preview"
+      },
+      "collectionImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (1).jpeg",
+        "alt": "Three bedroom residence interior"
+      },
+      "specs": {
+        "size": "140 sqm",
+        "beds": "3",
+        "baths": "3",
+        "balcony": true,
+        "smartHome": true
+      },
+      "features": [
+        "Master suite with dressing room",
+        "Formal dining area",
+        "Family living zone",
+        "Expansive terrace"
+      ],
+      "floorPlan": {
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+          "alt": "3 Bedroom floor plan"
+        }
+      }
+    },
+    {
+      "id": "penthouse",
+      "title": "Penthouse",
+      "lifestyle": "The pinnacle of Citrine living. A private world above the skyline with unmatched scale, views, and exclusivity.",
+      "previewImage": {
+        "src": "/projects/citrine-heights/gallery/citrine heights.png",
+        "alt": "Penthouse at dusk"
+      },
+      "collectionImage": {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (2).jpeg",
+        "alt": "Penthouse interior with skyline views"
+      },
+      "specs": {
+        "size": "250 sqm",
+        "beds": "4",
+        "baths": "4",
+        "balcony": true,
+        "smartHome": true
+      },
+      "features": [
+        "Private rooftop terrace",
+        "Chef's kitchen",
+        "Home cinema room",
+        "360° panoramic views"
+      ],
+      "floorPlan": {
+        "image": {
+          "src": "/projects/citrine-heights/gallery/citrine.png",
+          "alt": "Penthouse floor plan"
+        }
+      }
+    }
+  ],
+  "floorPlans": {
+    "label": "FLOOR PLANS",
+    "headline": "Every detail, considered."
+  },
+  "featuresFinishes": {
+    "label": "FEATURES & FINISHES",
+    "headline": "Materials chosen with intention.",
+    "items": [
+      {
+        "title": "Italian-Inspired Kitchens",
+        "description": "Hand-selected cabinetry and integrated appliances for the discerning home chef.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Italian-inspired kitchen"
+        }
+      },
+      {
+        "title": "Floor-to-Ceiling Windows",
+        "description": "Panoramic glazing that draws the skyline into every room.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/living.png",
+          "alt": "Floor-to-ceiling windows"
+        }
+      },
+      {
+        "title": "Premium Flooring",
+        "description": "Engineered timber and natural stone throughout living spaces.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/marble.jpg",
+          "alt": "Premium marble flooring"
+        }
+      },
+      {
+        "title": "Designer Lighting",
+        "description": "Architectural fixtures that sculpt light and shadow with precision.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Designer lighting over dining table"
+        }
+      },
+      {
+        "title": "Stone Countertops",
+        "description": "Natural stone surfaces in kitchens and bathrooms.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (3).jpeg",
+          "alt": "Stone countertops"
+        }
+      },
+      {
+        "title": "Smart Access",
+        "description": "Keyless entry, climate control, and integrated home automation.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22.jpeg",
+          "alt": "Smart home access panel"
+        }
+      },
+      {
+        "title": "Luxury Sanitary Ware",
+        "description": "Premium fixtures and fittings in every ensuite and powder room.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21 (1).jpeg",
+          "alt": "Luxury bathroom sanitary ware"
+        }
+      }
+    ]
+  },
+  "lifeInside": {
+    "label": "LIFE INSIDE",
+    "headline": "A day in your residence.",
+    "moments": [
+      {
+        "time": "Morning",
+        "narrative": "Sunlight filters through floor-to-ceiling glass as you prepare breakfast in your Italian kitchen.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Morning light in the kitchen"
+        }
+      },
+      {
+        "time": "Afternoon",
+        "narrative": "A quiet moment on your private balcony, the city humming softly below.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/living.png",
+          "alt": "Afternoon on the balcony"
+        }
+      },
+      {
+        "time": "Evening",
+        "narrative": "Dinner with friends in an open-plan space designed for effortless entertaining.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Evening entertaining"
+        }
+      },
+      {
+        "time": "Night",
+        "narrative": "The skyline glows beyond your windows as you retreat to a sanctuary above the city.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/citrine heights.png",
+          "alt": "Night views from residence"
+        }
+      }
+    ]
+  },
+  "comparison": {
+    "label": "AT A GLANCE",
+    "headline": "Compare specifications."
+  },
+  "availability": {
+    "label": "LIMITED COLLECTION",
+    "headline": "Only a select number of residences remain.",
+    "description": "Each residence type is offered in limited quantities, ensuring an exclusive community of discerning owners."
+  },
+  "cta": {
+    "headline": "Find The Residence That Fits Your Lifestyle.",
+    "buttonLabel": "BOOK A PRIVATE CONSULTATION"
+  },
+  "compare": {
+    "label": "COMPARE RESIDENCES",
+    "headline": "Side by side.",
+    "minSelection": 2,
+    "maxSelection": 3
+  }
+}

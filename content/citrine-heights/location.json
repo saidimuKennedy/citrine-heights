@@ -1,0 +1,345 @@
+{
+  "hero": {
+    "label": "LOCATION",
+    "headline": "At The Centre Of Everything.",
+    "subtitle": "Perfectly positioned to connect business, lifestyle and everyday living.",
+    "ctaLabel": "EXPLORE THE NEIGHBOURHOOD",
+    "accent": "DISCOVER",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Nairobi skyline at golden hour from Westlands"
+    }
+  },
+  "story": {
+    "label": "WHY THIS LOCATION",
+    "headline": "Location is more than an address.",
+    "paragraphs": [
+      "It shapes how you work, connect, invest and live.",
+      "Citrine Heights places you within minutes of Nairobi's finest destinations — opposite GTC on Westlands Road, at the intersection of business, culture and everyday convenience.",
+      "For families abroad considering a home in Nairobi, this is the address that needs no explanation. Westlands is where the city works, shops, dines and grows."
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/cetrine-icon.png",
+      "alt": "Citrine Heights tower rising above the Westlands skyline at dusk"
+    }
+  },
+  "map": {
+    "label": "NEIGHBOURHOOD EXPLORER",
+    "headline": "Your world, mapped.",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8158!2d36.8055!3d-1.2634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f173d963dc089%3A0x6df2a3a495889230!2sWestlands%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1710000000000!5m2!1sen!2ske",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Westlands+Road,+Nairobi,+Kenya",
+    "categories": [
+      { "id": "shopping", "label": "Shopping" },
+      { "id": "dining", "label": "Dining" },
+      { "id": "healthcare", "label": "Healthcare" },
+      { "id": "education", "label": "Schools" },
+      { "id": "business", "label": "Business" },
+      { "id": "entertainment", "label": "Entertainment" },
+      { "id": "parks", "label": "Parks" },
+      { "id": "airport", "label": "Airport" }
+    ],
+    "pins": [
+      {
+        "id": "westgate",
+        "name": "Westgate Mall",
+        "category": "shopping",
+        "description": "Premium retail, dining and entertainment — Nairobi's landmark lifestyle destination.",
+        "travelTime": "3 mins",
+        "x": 38,
+        "y": 42
+      },
+      {
+        "id": "sarit",
+        "name": "Sarit Centre",
+        "category": "shopping",
+        "description": "Westlands' original shopping hub with supermarkets, boutiques and services.",
+        "travelTime": "5 mins",
+        "x": 52,
+        "y": 38
+      },
+      {
+        "id": "artcaffe",
+        "name": "Artcaffé",
+        "category": "dining",
+        "description": "All-day dining and coffee culture at the heart of the neighbourhood.",
+        "travelTime": "4 mins",
+        "x": 48,
+        "y": 52
+      },
+      {
+        "id": "aga-khan",
+        "name": "Aga Khan Hospital",
+        "category": "healthcare",
+        "description": "World-class private healthcare within a short drive.",
+        "travelTime": "7 mins",
+        "x": 62,
+        "y": 48
+      },
+      {
+        "id": "isk",
+        "name": "International School of Kenya",
+        "category": "education",
+        "description": "One of East Africa's leading international schools.",
+        "travelTime": "12 mins",
+        "x": 28,
+        "y": 58
+      },
+      {
+        "id": "gtc",
+        "name": "Global Trade Centre",
+        "category": "business",
+        "description": "Nairobi's premier business address — directly opposite Citrine Heights.",
+        "travelTime": "1 min",
+        "x": 50,
+        "y": 46
+      },
+      {
+        "id": "kicc",
+        "name": "CBD & KICC",
+        "category": "business",
+        "description": "Nairobi's central business district and government quarter.",
+        "travelTime": "8 mins",
+        "x": 72,
+        "y": 62
+      },
+      {
+        "id": "karura",
+        "name": "Karura Forest",
+        "category": "parks",
+        "description": "1,000 hectares of indigenous forest — trails, waterfalls and weekend escape.",
+        "travelTime": "10 mins",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "id": "jkia",
+        "name": "Jomo Kenyatta Airport",
+        "category": "airport",
+        "description": "East Africa's busiest international gateway via the Expressway.",
+        "travelTime": "20 mins",
+        "x": 85,
+        "y": 75
+      },
+      {
+        "id": "village-market",
+        "name": "Village Market",
+        "category": "entertainment",
+        "description": "Dining, cinema and weekend markets in a landscaped village setting.",
+        "travelTime": "8 mins",
+        "x": 35,
+        "y": 32
+      }
+    ]
+  },
+  "highlights": {
+    "label": "EVERYTHING NEARBY",
+    "headline": "Recognisable landmarks. Real convenience.",
+    "items": [
+      {
+        "category": "Shopping",
+        "destination": "Westgate",
+        "travelTime": "3 mins",
+        "description": "Premium retail and dining at Nairobi's most visited mall.",
+        "icon": "ShoppingBag",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+          "alt": "Westlands lifestyle and retail"
+        },
+        "span": 2
+      },
+      {
+        "category": "Dining",
+        "destination": "Artcaffé",
+        "travelTime": "4 mins",
+        "description": "Morning coffee, business lunches and evening gatherings.",
+        "icon": "Coffee",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Dining and social spaces in Westlands"
+        }
+      },
+      {
+        "category": "Healthcare",
+        "destination": "Aga Khan",
+        "travelTime": "7 mins",
+        "description": "Trusted private healthcare for families at home and abroad.",
+        "icon": "HeartPulse",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+          "alt": "Premium healthcare access"
+        }
+      },
+      {
+        "category": "Business",
+        "destination": "GTC",
+        "travelTime": "1 min",
+        "description": "Global firms, embassies and boardrooms — directly across the road.",
+        "icon": "Building2",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/citrine.png",
+          "alt": "Global Trade Centre business district"
+        },
+        "span": 2
+      },
+      {
+        "category": "Education",
+        "destination": "ISK",
+        "travelTime": "12 mins",
+        "description": "International curriculum schools within easy reach.",
+        "icon": "GraduationCap",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22 (1).jpeg",
+          "alt": "Family-friendly neighbourhood"
+        }
+      },
+      {
+        "category": "Parks",
+        "destination": "Karura Forest",
+        "travelTime": "10 mins",
+        "description": "Weekend trails and green space without leaving the city.",
+        "icon": "Trees",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23.jpeg",
+          "alt": "Green spaces near Westlands"
+        }
+      }
+    ]
+  },
+  "lifestyle": {
+    "label": "LIFESTYLE AROUND YOU",
+    "headline": "Opportunity meets lifestyle.",
+    "moments": [
+      {
+        "period": "morning",
+        "label": "Morning",
+        "narrative": "Coffee before work.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Morning coffee in Westlands"
+        }
+      },
+      {
+        "period": "afternoon",
+        "label": "Afternoon",
+        "narrative": "Business meetings across the road.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/living.png",
+          "alt": "Business district at midday"
+        }
+      },
+      {
+        "period": "evening",
+        "label": "Evening",
+        "narrative": "Dinner overlooking the city.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "Evening dining with city views"
+        }
+      },
+      {
+        "period": "night",
+        "label": "Night",
+        "narrative": "Home before the city sleeps.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (1).jpeg",
+          "alt": "Westlands at night"
+        }
+      }
+    ]
+  },
+  "connectivity": {
+    "label": "CONNECTIVITY",
+    "headline": "Every route leads here.",
+    "nodes": [
+      { "name": "Airport", "description": "JKIA via Nairobi Expressway" },
+      { "name": "Expressway", "description": "Direct access to the city's arterial network" },
+      { "name": "CBD", "description": "Parliament, banks and government quarter" },
+      { "name": "Business Parks", "description": "GTC, ABC Place and corporate campuses" },
+      { "name": "Shopping Centres", "description": "Westgate, Sarit and Village Market" },
+      { "name": "Universities", "description": "USIU, Strathmore and leading institutions" },
+      { "name": "Hospitals", "description": "Aga Khan, Nairobi Hospital and specialist care" }
+    ]
+  },
+  "investment": {
+    "label": "INVESTMENT PERSPECTIVE",
+    "headline": "Positioned in one of Nairobi's most desirable growth corridors.",
+    "paragraphs": [
+      "Westlands has consistently outperformed as a residential and commercial address. Limited land supply, sustained corporate demand and infrastructure investment — including the Nairobi Expressway — continue to strengthen the area's long-term appeal.",
+      "For diaspora investors, location is the first due diligence question. This is an established, liquid neighbourhood with proven rental demand from expatriates, diplomats and senior professionals."
+    ],
+    "supportingPoints": [
+      "Opposite GTC — Nairobi's anchor commercial development",
+      "Established rental market with international tenant base",
+      "Expressway connectivity to airport and eastern suburbs",
+      "Limited new supply in prime Westlands corridor"
+    ]
+  },
+  "travelTimes": {
+    "label": "TRAVEL TIMES",
+    "headline": "Minutes, not hours.",
+    "items": [
+      { "minutes": "3", "destination": "Westgate" },
+      { "minutes": "5", "destination": "Sarit Centre" },
+      { "minutes": "8", "destination": "CBD" },
+      { "minutes": "10", "destination": "Karura Forest" },
+      { "minutes": "20", "destination": "Airport" }
+    ]
+  },
+  "withinReach": {
+    "label": "EVERYTHING WITHIN REACH",
+    "headline": "Life within ten minutes.",
+    "description": "Whether you are in London, Toronto or Dubai — these are the landmarks that define convenience in Nairobi.",
+    "items": [
+      { "name": "Westgate", "category": "Shopping", "travelTime": "3 min" },
+      { "name": "GTC", "category": "Business", "travelTime": "1 min" },
+      { "name": "Artcaffé", "category": "Dining", "travelTime": "4 min" },
+      { "name": "Aga Khan", "category": "Healthcare", "travelTime": "7 min" },
+      { "name": "ISK", "category": "Schools", "travelTime": "12 min" },
+      { "name": "Karura", "category": "Parks", "travelTime": "10 min" },
+      { "name": "CBD", "category": "Business", "travelTime": "8 min" },
+      { "name": "Airport", "category": "Transport", "travelTime": "20 min" }
+    ]
+  },
+  "gallery": {
+    "label": "NEIGHBOURHOOD GALLERY",
+    "headline": "The city around you.",
+    "images": [
+      {
+        "src": "/projects/citrine-heights/gallery/citrine heights.png",
+        "alt": "Nairobi skyline from Westlands",
+        "caption": "Skyline"
+      },
+      {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+        "alt": "Dining and entertainment",
+        "caption": "Dining"
+      },
+      {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+        "alt": "Shopping and lifestyle",
+        "caption": "Lifestyle"
+      },
+      {
+        "src": "/projects/citrine-heights/gallery/citrine.png",
+        "alt": "Business district",
+        "caption": "Business"
+      },
+      {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23.jpeg",
+        "alt": "Green spaces",
+        "caption": "Parks"
+      },
+      {
+        "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25 (2).jpeg",
+        "alt": "Public spaces and community",
+        "caption": "Community"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "See the location for yourself.",
+    "primaryLabel": "BOOK A PRIVATE TOUR",
+    "secondaryLabel": "GET DIRECTIONS",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Westlands+Road,+Nairobi,+Kenya"
+  }
+}

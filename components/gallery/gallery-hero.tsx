@@ -37,18 +37,6 @@ export function GalleryHero({ backgroundSrc, backgroundAlt }: GalleryHeroProps) 
             <span className="italic text-white/90">Through Citrine Tower</span>
           </h1>
         </MotionReveal>
-
-        <MotionReveal y={20} delay={0.24}>
-          <p className="mt-10 text-[10px] font-medium tracking-[0.35em] text-white/50 md:text-xs">
-            SCROLL
-          </p>
-        </MotionReveal>
-      </div>
-
-      <div className="absolute bottom-10 left-1/2 z-10 -translate-x-1/2">
-        <div className="flex h-14 w-[1px] overflow-hidden bg-white/15">
-          <div className="w-full animate-[gallery-scroll_2.4s_ease-in-out_infinite] bg-[#C8A46B]" />
-        </div>
       </div>
     </section>
   );

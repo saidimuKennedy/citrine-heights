@@ -1,0 +1,293 @@
+{
+  "hero": {
+    "label": "CONTACT",
+    "headline": "Let's Start The Conversation.",
+    "subtitle": "Whether you are searching for a home, exploring an investment, or planning from abroad — our team is ready to guide you with discretion and expertise.",
+    "ctaLabel": "BOOK CONSULTATION",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+      "alt": "Luxury sales lounge reception at Citrine Heights"
+    }
+  },
+  "welcome": {
+    "headline": "Every Great Investment Begins With A Conversation.",
+    "paragraph": "At Citrine Heights, we believe the journey to your future home should feel as considered as the residence itself. Our private consultation process is designed around you — your timeline, your questions, and your vision. No pressure. No generic sales pitch. Just honest guidance from a team that knows this address inside and out."
+  },
+  "waysToConnect": {
+    "label": "WAYS TO CONNECT",
+    "headline": "Reach us on your terms.",
+    "cards": [
+      {
+        "id": "call",
+        "title": "Call Us",
+        "description": "Speak directly with our sales team for immediate answers about availability, pricing, and viewing appointments.",
+        "contact": "+254 700 000 000",
+        "action": "tel:+254700000000",
+        "actionLabel": "CALL NOW"
+      },
+      {
+        "id": "whatsapp",
+        "title": "WhatsApp",
+        "description": "Chat instantly with a property advisor. Share your questions and receive detailed project information at your pace.",
+        "contact": "+254 700 000 000",
+        "action": "https://wa.me/254700000000?text=Hello%2C%20I%20would%20like%20to%20learn%20more%20about%20Citrine%20Heights.",
+        "actionLabel": "START CHAT"
+      },
+      {
+        "id": "email",
+        "title": "Email",
+        "description": "Request detailed project information, brochures, and investment materials delivered to your inbox.",
+        "contact": "info@citrineheights.co.ke",
+        "action": "mailto:info@citrineheights.co.ke",
+        "actionLabel": "SEND EMAIL"
+      },
+      {
+        "id": "visit",
+        "title": "Book A Visit",
+        "description": "Experience Citrine Heights in person at our sales gallery on Westlands Road. By appointment only.",
+        "contact": "Westlands Road, Nairobi",
+        "action": "#schedule-viewing",
+        "actionLabel": "SCHEDULE VISIT"
+      }
+    ]
+  },
+  "journeys": {
+    "label": "CHOOSE YOUR JOURNEY",
+    "headline": "Tell us how we can best serve you.",
+    "paths": [
+      {
+        "id": "home",
+        "title": "I'm looking for a home",
+        "description": "Find the residence that fits your lifestyle and family."
+      },
+      {
+        "id": "investor",
+        "title": "I'm an investor",
+        "description": "Explore rental yields, capital growth, and portfolio opportunities."
+      },
+      {
+        "id": "diaspora",
+        "title": "I'm based abroad",
+        "description": "Purchase remotely with dedicated diaspora support."
+      },
+      {
+        "id": "partner",
+        "title": "I'm a partner or agent",
+        "description": "Collaborate with our sales team on referrals and partnerships."
+      }
+    ]
+  },
+  "consultation": {
+    "label": "PRIVATE CONSULTATION",
+    "headline": "Request a personal conversation.",
+    "description": "Complete the form below and a dedicated advisor will reach out within one business day.",
+    "submitLabel": "REQUEST PRIVATE CONSULTATION",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/living.png",
+      "alt": "Elegant living space at Citrine Heights"
+    },
+    "residenceTypes": [
+      "Studio",
+      "1 Bedroom",
+      "2 Bedroom",
+      "3 Bedroom",
+      "4 Bedroom",
+      "Penthouse",
+      "Undecided"
+    ],
+    "budgetRanges": [
+      "Under KES 15M",
+      "KES 15M - 25M",
+      "KES 25M - 40M",
+      "KES 40M - 60M",
+      "Above KES 60M",
+      "Prefer not to say"
+    ],
+    "contactMethods": ["Phone", "Email", "WhatsApp", "Video Call"],
+    "viewingTypes": ["In Person", "Virtual", "Either"]
+  },
+  "scheduleViewing": {
+    "label": "SCHEDULE A VIEWING",
+    "headline": "Experience Citrine Heights firsthand.",
+    "description": "Select your preferred residence, date, and viewing format. Our team will confirm your appointment personally.",
+    "submitLabel": "CONFIRM VIEWING REQUEST",
+    "properties": [
+      "Studio",
+      "1 Bedroom",
+      "2 Bedroom",
+      "3 Bedroom",
+      "4 Bedroom",
+      "Penthouse",
+      "Show Unit / Model Apartment",
+      "Sales Gallery Only"
+    ],
+    "timeSlots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:00 PM",
+      "03:30 PM",
+      "05:00 PM"
+    ]
+  },
+  "team": {
+    "label": "MEET THE TEAM",
+    "headline": "The people behind your journey.",
+    "members": [
+      {
+        "id": "sales-director",
+        "name": "Amara Ochieng",
+        "role": "Sales Director",
+        "email": "amara@citrineheights.co.ke",
+        "phone": "+254 700 000 001",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21.jpeg",
+          "alt": "Amara Ochieng, Sales Director"
+        }
+      },
+      {
+        "id": "property-advisor",
+        "name": "David Mwangi",
+        "role": "Senior Property Advisor",
+        "email": "david@citrineheights.co.ke",
+        "phone": "+254 700 000 002",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22.jpeg",
+          "alt": "David Mwangi, Senior Property Advisor"
+        }
+      },
+      {
+        "id": "diaspora-consultant",
+        "name": "Grace Wanjiru",
+        "role": "Diaspora Consultant",
+        "email": "grace@citrineheights.co.ke",
+        "phone": "+254 700 000 003",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23.jpeg",
+          "alt": "Grace Wanjiru, Diaspora Consultant"
+        }
+      },
+      {
+        "id": "customer-relations",
+        "name": "James Kariuki",
+        "role": "Customer Relations",
+        "email": "james@citrineheights.co.ke",
+        "phone": "+254 700 000 004",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+          "alt": "James Kariuki, Customer Relations"
+        }
+      }
+    ]
+  },
+  "salesGallery": {
+    "label": "VISIT OUR SALES GALLERY",
+    "headline": "Walk through your future address.",
+    "description": "Our sales gallery on Westlands Road offers an immersive preview of Citrine Heights — from architectural models and material samples to virtual walkthroughs of every residence type.",
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Citrine Heights sales gallery exterior"
+    },
+    "address": "Westlands Road, Opposite GTC, Westlands, Nairobi, Kenya",
+    "openingHours": "Monday - Saturday: 9:00 AM - 6:00 PM | Sunday: By Appointment",
+    "parking": "Complimentary visitor parking available on-site",
+    "appointmentRequired": true
+  },
+  "map": {
+    "label": "FIND US",
+    "headline": "In the heart of Westlands.",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8158!2d36.8055!3d-1.2634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f173d963dc089%3A0x6df2a3a495889230!2sWestlands%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1710000000000!5m2!1sen!2ske",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Westlands+Road,+Nairobi,+Kenya"
+  },
+  "faq": {
+    "label": "FREQUENTLY ASKED",
+    "headline": "Questions we hear often.",
+    "items": [
+      {
+        "id": "abroad",
+        "question": "Can I buy a residence while living abroad?",
+        "answer": "Yes. Our diaspora team specialises in remote purchases for buyers in the UK, US, Canada, UAE, and beyond. We offer virtual viewings, secure document handling, and flexible payment plans designed for international clients."
+      },
+      {
+        "id": "virtual",
+        "question": "Do you offer virtual viewings?",
+        "answer": "Absolutely. We conduct live video walkthroughs of the sales gallery, show units, and available residences. You can also request a recorded tour tailored to your preferred unit type."
+      },
+      {
+        "id": "appointments",
+        "question": "Do I need an appointment to visit?",
+        "answer": "Walk-ins are welcome during opening hours, but we recommend booking an appointment to ensure a dedicated advisor is available for your visit. Private consultations receive our full attention."
+      },
+      {
+        "id": "documentation",
+        "question": "What documentation is required to reserve a unit?",
+        "answer": "A valid national ID or passport, proof of address, and a reservation deposit. Our team will guide you through the full legal and conveyancing process with our appointed advocates."
+      },
+      {
+        "id": "financing",
+        "question": "Are financing options available?",
+        "answer": "We work with leading Kenyan banks and offer flexible developer payment plans. Our team can connect you with mortgage advisors and provide payment schedule documentation for your review."
+      },
+      {
+        "id": "brochure",
+        "question": "How do I request a brochure or floor plans?",
+        "answer": "Use our Download Centre below or submit a consultation request. We will send the materials to your email within one business day, along with current pricing and availability."
+      },
+      {
+        "id": "location",
+        "question": "Where exactly is Citrine Heights located?",
+        "answer": "Citrine Heights is on Westlands Road, directly opposite GTC in Nairobi's premier business and lifestyle district. The development is minutes from Westgate Mall, Sarit Centre, and major embassies."
+      }
+    ]
+  },
+  "responsePromise": {
+    "headline": "We Respond Within One Business Day.",
+    "paragraph": "Every enquiry receives personal attention from a dedicated advisor — not an automated reply. We understand that purchasing a residence is one of life's most significant decisions, and we honour that with timely, thoughtful communication."
+  },
+  "cta": {
+    "headline": "Ready To Find Your Future Home?",
+    "buttonLabel": "BOOK A PRIVATE CONSULTATION"
+  },
+  "whatsapp": {
+    "number": "+254700000000",
+    "message": "Hello, I would like to learn more about Citrine Heights."
+  },
+  "downloads": {
+    "label": "DOWNLOAD CENTRE",
+    "headline": "Resources for informed decisions.",
+    "description": "Access our project materials. Complete a brief form to unlock downloads and receive updates on availability.",
+    "unlockLabel": "UNLOCK DOWNLOADS",
+    "items": [
+      {
+        "id": "brochure",
+        "title": "Project Brochure",
+        "description": "Complete overview of Citrine Heights — architecture, amenities, and lifestyle.",
+        "fileUrl": "/projects/citrine-heights/gallery/citrine.png"
+      },
+      {
+        "id": "floor-plans",
+        "title": "Floor Plans",
+        "description": "Detailed layouts for every residence type from studio to penthouse.",
+        "fileUrl": "/projects/citrine-heights/floorplans/WhatsApp Image 2026-07-04 at 10.44.20.jpeg"
+      },
+      {
+        "id": "payment-plans",
+        "title": "Payment Plans",
+        "description": "Flexible financing and developer payment schedule options.",
+        "fileUrl": "/projects/citrine-heights/gallery/citrine.png"
+      },
+      {
+        "id": "investment-guide",
+        "title": "Investment Guide",
+        "description": "Rental yields, capital appreciation projections, and market analysis.",
+        "fileUrl": "/projects/citrine-heights/gallery/citrine.png"
+      },
+      {
+        "id": "company-profile",
+        "title": "Company Profile",
+        "description": "Developer credentials, track record, and project portfolio.",
+        "fileUrl": "/projects/citrine-heights/gallery/citrine.png"
+      }
+    ]
+  }
+}

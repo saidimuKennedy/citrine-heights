@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "title": "CITRINE TOWER",
+    "headline": "A New Landmark\nFor Modern Nairobi.",
+    "tagline": "Luxury residences crafted\nfor elevated living.",
+    "primaryCta": { "label": "Explore", "href": "#introduction" },
+    "secondaryCta": { "label": "Book Viewing", "href": "#contact" },
+    "timeOfDay": {
+      "day": {
+        "label": "Day",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/citrine.png",
+          "alt": "Citrine Tower in daylight against the Nairobi skyline"
+        }
+      },
+      "sunset": {
+        "label": "Sunset",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/citrine heights.png",
+          "alt": "Citrine Tower at golden hour with illuminated facade"
+        }
+      },
+      "night": {
+        "label": "Night",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.21.jpeg",
+          "alt": "Citrine Tower at night with city lights"
+        }
+      }
+    }
+  },
+  "introduction": {
+    "headline": ["Not Every Building", "Changes A Skyline.", "Some Change", "How You Live."],
+    "paragraph": "Rising above Westlands Road, Citrine Tower is a statement of permanence — where architecture, light and lifestyle converge into something you feel before you ever step inside."
+  },
+  "vision": {
+    "label": "Architecture",
+    "headline": "Crafted Around Light,\nSpace and Permanence.",
+    "paragraphs": [
+      "Every line of the tower was drawn with intention — proportion that breathes, materials that endure, and sightlines that frame Nairobi rather than compete with it.",
+      "This is not a building assembled from templates. It is a single authored vision, from lobby to rooftop."
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+      "alt": "Architectural interior with refined finishes and natural light"
+    },
+    "cta": { "label": "Explore The Vision", "href": "/citrine-heights/overview" }
+  },
+  "lifestyle": {
+    "label": "Life At Citrine",
+    "headline": "A day imagined.",
+    "timeline": [
+      {
+        "time": "06:30",
+        "title": "Sunrise Workout",
+        "narrative": "The fitness centre opens to the first light. Train with purpose as the city stirs below.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/gym.jpg",
+          "alt": "Morning workout with panoramic views"
+        }
+      },
+      {
+        "time": "08:00",
+        "title": "Coffee With Skyline Views",
+        "narrative": "Artisan coffee on the terrace. The skyline stretches uninterrupted before you.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Morning coffee with city views"
+        }
+      },
+      {
+        "time": "13:00",
+        "title": "Business District Minutes Away",
+        "narrative": "Opposite GTC. Eight minutes to CBD. Your professional world, effortlessly within reach.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/table.png",
+          "alt": "Business lounge overlooking the city"
+        }
+      },
+      {
+        "time": "18:00",
+        "title": "Infinity Pool",
+        "narrative": "The water meets the horizon. Afternoon light dissolves into evening gold.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/pool.jpg",
+          "alt": "Infinity pool at sunset"
+        }
+      },
+      {
+        "time": "20:00",
+        "title": "Dinner Above The City",
+        "narrative": "The sky lounge comes alive. Neighbours gather. The city glows beneath you.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "Sky lounge dining at night"
+        }
+      }
+    ],
+    "cta": { "label": "Discover The Lifestyle", "href": "/citrine-heights/amenities" }
+  },
+  "location": {
+    "label": "Location",
+    "headline": "At The Centre\nOf Opportunity.",
+    "paragraph": "Opposite Global Trade Centre on Westlands Road — where business, culture and everyday living intersect.",
+    "travelTimes": [
+      { "minutes": "1", "destination": "GTC" },
+      { "minutes": "3", "destination": "Westgate" },
+      { "minutes": "8", "destination": "CBD" },
+      { "minutes": "10", "destination": "Karura Forest" },
+      { "minutes": "20", "destination": "Airport" }
+    ],
+    "map": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8158!2d36.8055!3d-1.2634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f173d963dc089%3A0x6df2a3a495889230!2sWestlands%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1710000000000!5m2!1sen!2ske",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Westlands+Road,+Nairobi,+Kenya"
+    },
+    "cta": { "label": "Explore The Neighbourhood", "href": "/citrine-heights/location" }
+  },
+  "investment": {
+    "label": "Investment Perspective",
+    "headline": "Enduring value\nin a growing district.",
+    "pillars": [
+      {
+        "title": "Prime Address",
+        "description": "Westlands remains Nairobi's most sought-after corridor for residential and commercial demand."
+      },
+      {
+        "title": "Strong Rental Demand",
+        "description": "International tenants, diplomatic missions and corporate relocations sustain premium rental yields."
+      },
+      {
+        "title": "Growing District",
+        "description": "Anchored by GTC and sustained infrastructure investment, the neighbourhood continues to appreciate."
+      },
+      {
+        "title": "Limited Collection",
+        "description": "A finite number of residences in a landmark tower — scarcity that endures beyond market cycles."
+      }
+    ]
+  },
+  "diaspora": {
+    "label": "Why Invest From Abroad?",
+    "headline": "Distance should never\nmean uncertainty.",
+    "paragraph": "For buyers in London, Dubai, Toronto and beyond — we have built a purchase journey designed for confidence across time zones.",
+    "points": [
+      {
+        "title": "Secure Purchase Process",
+        "description": "Transparent milestones from reservation to handover, with documented progress at every stage."
+      },
+      {
+        "title": "Virtual Viewings",
+        "description": "Private guided tours via video call — walk every residence and amenity from wherever you are."
+      },
+      {
+        "title": "Legal Documentation",
+        "description": "Title deeds, sale agreements and compliance certificates handled with full legal oversight."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "Structured payment plans designed for international buyers and diaspora investors."
+      },
+      {
+        "title": "Dedicated Sales Support",
+        "description": "A single point of contact available across time zones — responsive, informed and accountable."
+      }
+    ]
+  },
+  "construction": {
+    "label": "Construction Progress",
+    "headline": "Rising with purpose.",
+    "phases": [
+      {
+        "id": "groundbreaking",
+        "title": "Groundbreaking",
+        "status": "complete",
+        "description": "Foundation works commenced on Westlands Road."
+      },
+      {
+        "id": "structure",
+        "title": "Structure",
+        "status": "active",
+        "description": "Core structure rising — floor by floor, with precision engineering."
+      },
+      {
+        "id": "facade",
+        "title": "Facade",
+        "status": "upcoming",
+        "description": "Exterior cladding and architectural glazing."
+      },
+      {
+        "id": "interiors",
+        "title": "Interiors",
+        "status": "upcoming",
+        "description": "Residence fit-out and amenity completion."
+      },
+      {
+        "id": "completion",
+        "title": "Completion",
+        "status": "upcoming",
+        "description": "Handover and welcome home."
+      }
+    ]
+  },
+  "gallery": {
+    "label": "Gallery",
+    "headline": "Six moments.\nOne vision.",
+    "cta": { "label": "View Full Gallery", "href": "/citrine-heights/gallery" }
+  },
+  "trust": {
+    "label": "Developed By",
+    "developer": "Kianyingi Company Limited",
+    "headline": "Built on a legacy\nof delivery.",
+    "stats": [
+      { "value": "12+", "label": "Projects Delivered" },
+      { "value": "15+", "label": "Years Of Experience" },
+      { "value": "100%", "label": "Legal Compliance" }
+    ],
+    "resources": [
+      { "label": "Sales Team", "href": "#contact", "icon": "Users" },
+      { "label": "Brochure", "href": "/projects/citrine-heights/gallery/citrine.png", "icon": "FileText" },
+      { "label": "Certificates", "href": "#contact", "icon": "Award" }
+    ],
+    "registration": "Company Registration: CPR/2010/123456"
+  },
+  "finalCta": {
+    "headline": "Your Next Home\nStarts Here.",
+    "subheadline": "Book A Private Viewing.",
+    "cta": { "label": "Book A Private Viewing", "href": "#contact" },
+    "image": {
+      "src": "/projects/citrine-heights/gallery/citrine heights.png",
+      "alt": "Citrine Tower at dusk"
+    }
+  },
+  "buildingExplorer": {
+    "label": "The Tower",
+    "headline": "Explore the architecture.",
+    "floors": [
+      {
+        "id": "penthouses",
+        "label": "Penthouses",
+        "floor": "38–40",
+        "description": "The crown of Citrine — private terraces and 360° horizons.",
+        "y": 8
+      },
+      {
+        "id": "sky-lounge",
+        "label": "Sky Lounge",
+        "floor": "Rooftop",
+        "description": "An elevated salon for dining, gathering and contemplation.",
+        "y": 18
+      },
+      {
+        "id": "pool",
+        "label": "Infinity Pool",
+        "floor": "Rooftop",
+        "description": "Suspended above the canopy — water meets skyline.",
+        "y": 22
+      },
+      {
+        "id": "gym",
+        "label": "Fitness Centre",
+        "floor": "Level 5",
+        "description": "State-of-the-art equipment with panoramic views.",
+        "y": 72
+      },
+      {
+        "id": "parking",
+        "label": "Parking",
+        "floor": "Basement",
+        "description": "Secure, allocated parking with EV charging.",
+        "y": 92
+      }
+    ],
+    "towerImage": {
+      "src": "/projects/citrine-heights/gallery/citrine.png",
+      "alt": "Citrine Tower architectural illustration"
+    }
+  }
+}

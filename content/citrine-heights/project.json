@@ -40,7 +40,7 @@
   "overview": {
     "headline": "Architecture that inspires tomorrow.",
     "description": [
-      "Citrine Heights is more than just a residence. It is a statement of distinction. From the breathtaking design to the world-class amenities, every detail is crafted for exceptional living."
+      "A deeper look at the design philosophy, daily rhythm and address behind Citrine Heights."
     ],
     "media": {
       "type": "image",
@@ -86,10 +86,10 @@
     "media": {
       "type": "image",
       "image": {
-        "src": "/projects/citrine-heights/gallery/cetrine-icon.png",
-        "alt": "Citrine Heights tower closeup facade at dusk",
-        "width": 800,
-        "height": 1200
+        "src": "/projects/citrine-heights/gallery/citrine.png",
+        "alt": "Citrine Tower exterior rendering at dusk",
+        "width": 540,
+        "height": 672
       }
     },
     "stats": [

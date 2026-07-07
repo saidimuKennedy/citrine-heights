@@ -1,0 +1,115 @@
+{
+  "editorial": {
+    "label": "THE VISION",
+    "headline": "A home shaped by light and intention.",
+    "description": "Citrine Heights was imagined not as a tower on a skyline, but as a daily refuge — a place where proportion, calm and craft converge. This is the emotional architecture behind every residence: why you wake here, entertain here, and belong here."
+  },
+  "split": {
+    "headline": "Rooms that breathe with the city.",
+    "paragraphs": [
+      "We designed each residence as a sequence of moments — entry, gathering, retreat — with sightlines that frame Nairobi rather than compete with it. Ceilings rise with purpose. Terraces extend the living room into open air.",
+      "The result is not spectacle, but serenity: interiors that feel composed, generous and unmistakably yours."
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.22 (1).jpeg",
+      "alt": "Master bedroom with refined finishes and soft natural light"
+    }
+  },
+  "designPhilosophy": {
+    "label": "DESIGN PHILOSOPHY",
+    "headline": "Three principles. One enduring vision.",
+    "pillars": [
+      {
+        "title": "Proportion",
+        "description": "Every volume is calibrated — ceiling heights, room depths and terrace widths measured to create harmony, not excess.",
+        "icon": "Layers"
+      },
+      {
+        "title": "Materiality",
+        "description": "Stone, timber and glass chosen for how they age — surfaces that grow richer with time and daily use.",
+        "icon": "Gem"
+      },
+      {
+        "title": "Continuity",
+        "description": "From lobby to rooftop, a single design language flows uninterrupted — so the building feels authored, not assembled.",
+        "icon": "Infinity"
+      }
+    ]
+  },
+  "statisticsSection": {
+    "label": "BY THE MEASURE",
+    "headline": "Scale with intention.",
+    "description": "Numbers tell only part of the story — each figure reflects a deliberate design decision."
+  },
+  "statistics": [
+    { "value": "40", "label": "Stories", "context": "Above the Westlands canopy" },
+    { "value": "200+", "label": "Residences", "context": "Each with a distinct outlook" },
+    { "value": "360°", "label": "Horizons", "context": "City, forest and sky" },
+    { "value": "8", "label": "Penthouses", "context": "The crown of the tower" }
+  ],
+  "signatureImage": {
+    "src": "/projects/citrine-heights/gallery/citrine heights.png",
+    "alt": "Citrine Heights tower at dusk against the Nairobi skyline",
+    "overlay": "Light writes every line of the façade."
+  },
+  "lifestyle": {
+    "label": "A DAY IN THE LIFE",
+    "headline": "Rhythm of a Westlands day.",
+    "moments": [
+      {
+        "time": "Morning",
+        "narrative": "Espresso on the terrace as mist lifts from the city — the day begins in quiet, not hurry.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/kitchen.png",
+          "alt": "Morning light across a refined kitchen"
+        }
+      },
+      {
+        "time": "Afternoon",
+        "narrative": "A short walk to meetings, then home again — Westlands keeps your world within reach.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.23 (1).jpeg",
+          "alt": "Afternoon calm in an open living space"
+        }
+      },
+      {
+        "time": "Evening",
+        "narrative": "The pool deck glows amber. Conversations linger as the skyline turns to gold.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/pool.png",
+          "alt": "Rooftop pool at golden hour"
+        }
+      },
+      {
+        "time": "Night",
+        "narrative": "From your balcony, a constellation of city lights — private, elevated, entirely yours.",
+        "image": {
+          "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.24.jpeg",
+          "alt": "Sky lounge illuminated at night"
+        }
+      }
+    ]
+  },
+  "location": {
+    "label": "THE ADDRESS",
+    "headline": "Westlands — your daily orbit.",
+    "description": "This is Nairobi's most connected neighbourhood — where embassies, galleries, restaurants and boardrooms share the same streets. Citrine Heights sits at its centre, close enough to move freely, removed enough to exhale.",
+    "travelTimes": [
+      { "destination": "Sarit Centre", "time": "5 mins" },
+      { "destination": "Westgate", "time": "6 mins" },
+      { "destination": "CBD", "time": "10 mins" },
+      { "destination": "Airport", "time": "25 mins" }
+    ],
+    "image": {
+      "src": "/projects/citrine-heights/gallery/WhatsApp Image 2026-07-04 at 10.44.25.jpeg",
+      "alt": "Evening ambience in a Westlands setting"
+    }
+  },
+  "developerVision": {
+    "paragraph": "We did not set out to build the tallest tower in Westlands. We set out to build the most considered — a residence that respects how people actually live, invest and grow. Every decision, from the lobby stone to the rooftop line, carries that promise."
+  },
+  "cta": {
+    "headline": "Begin your chapter at Citrine Heights.",
+    "buttonLabel": "REQUEST A PRIVATE TOUR"
+  }
+}
